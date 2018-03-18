@@ -28,7 +28,7 @@ import org.springframework.stereotype.Component;
 @Profile("app")
 class SampleClient {
 
-	private static final List<String> SAMPLE_COUNTRY_CODES = Arrays.asList("AF", "AX",
+	private static final List<String> SAMPLE_COUNTRY_CODES = Arrays.asList("AFDD", "AX",
 			"AL", "DZ", "AS", "AD", "AO", "AI", "AQ", "AG", "AR", "AM", "AW", "AU", "AT",
 			"AZ", "BS", "BH", "BD", "BB", "BY", "BE", "BZ", "BJ", "BM", "BT", "BO", "BQ",
 			"BA", "BW", "BV", "BR", "IO", "BN", "BG", "BF", "BI", "KH", "CM", "CA", "CV",
